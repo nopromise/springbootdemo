@@ -18,7 +18,7 @@ public class DemoController {
     @RequestMapping("/demo")
     @ResponseBody
     public String index(HttpServletRequest request, HttpServletResponse response, ModelMap modelMap) {
-        return "hello demo test111";
+        return "hello demo test xiao yun yun";
     }
 
 }
